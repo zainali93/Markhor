@@ -302,6 +302,6 @@ The final proceedings citation will be updated after publication.
 
 ## License
 
-The source code in this repository is released under the [MIT License](LICENSE).
+The source code in this repository is released under the [MIT License](https://github.com/zainali93/Markhor?tab=MIT-1-ov-file).
 
 The datasets are distributed separately through the Markhor-Data repository and may be subject to their respective source licenses and usage conditions.
