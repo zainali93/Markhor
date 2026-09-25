@@ -292,7 +292,7 @@ If you use Markhor in your research, please cite:
 ```bibtex
 @inproceedings{ali2026markhor,
   title     = {Markhor: A Framework for Adapting LLMs to Urdu via Alignment-Free Tokenizer Replacement},
-  author    = {Ali, Muhammad Zain and others},
+  author    = {Ali, Muhammad Zain and Wang, Yuxia and Manzoor, Muhammad Arslan and Smith, Tony and Pfahringer, Bernhard},
   booktitle = {Findings of the Association for Computational Linguistics: AACL-IJCNLP 2026},
   year      = {2026}
 }
