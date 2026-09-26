@@ -97,7 +97,7 @@ data/
 └── pretraining/
     └── urdu_train_text_new.txt
 ```
-> **Note on reproducibility:** The released scripts provide configurable default hyperparameters. For the exact experimental settings used to obtain the results reported in the paper, please refer to the hyperparameter configurations reported in the paper.
+> **Note on reproducibility:** The released scripts provide configurable default hyperparameters. For the exact experimental settings used to obtain the results reported in the paper, please refer to the hyperparameter configurations provided in the paper.
 
 ## Tokenizer Training
 
