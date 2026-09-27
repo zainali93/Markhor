@@ -281,8 +281,8 @@ evaluation/qa/results/
 
 The framework produces two Urdu-adapted models:
 
-- **MKGPT** &mdash based on GPT-2
-- **MKQwen** &mdash based on Qwen3-0.6B
+- **MKGPT** &mdash; based on GPT-2
+- **MKQwen** &mdash; based on Qwen3-0.6B
 
 Model release links will be added here.
 
