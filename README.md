@@ -36,7 +36,6 @@ Markhor/
 ├── README.md
 └── requirements.txt
 ```
-
 ## Installation
 
 Clone the repository:
@@ -46,11 +45,22 @@ git clone https://github.com/zainali93/Markhor.git
 cd Markhor
 ```
 
-Install the required Python packages:
+A CUDA-enabled GPU is strongly recommended for continual pretraining and instruction tuning. Install the appropriate PyTorch build for your system by following the official [PyTorch installation instructions](https://pytorch.org/get-started/locally/).
+
+After installing PyTorch, install the remaining dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+You can verify that PyTorch detects your GPU using:
+
+```bash
+python -c "import torch; print('CUDA available:', torch.cuda.is_available()); print('GPU:', torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'None')"
+```
+
+The training scripts automatically use an available CUDA-enabled GPU.
+
 
 ## Data
 
