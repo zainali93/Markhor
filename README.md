@@ -4,6 +4,10 @@ Official implementation of **Markhor: A Framework for Adapting LLMs to Urdu via 
 
 Markhor investigates whether pretrained decoder-only language models can be effectively adapted to Urdu through complete tokenizer replacement without relying on cross-lingual vocabulary alignment. The framework consists of tokenizer replacement, continual pretraining, knowledge elicitation, and instruction tuning.
 
+## Video Overview
+
+https://github.com/user-attachments/assets/55ba88f5-e1ae-4133-a051-04d229a2055e
+
 ## Framework
 
 <p align="center">
